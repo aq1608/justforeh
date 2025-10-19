@@ -1,1 +1,11 @@
 could you hear the morse code behind...?
+
+
+
+
+
+
+
+
+
+maybe the bytes gotten from n1, n2, n3 and the bytes from n4, n5 can be decrypted with aes ecb?
